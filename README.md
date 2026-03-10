@@ -80,3 +80,10 @@ Some visualizations included in this project:
 ## ▶️ How to Run the Project
 
 1. Clone the repository
+2. https://github.com/jinipetrisha/zomato-data-analysis
+3. Navigate to the project folder
+4. Install required libraries
+5. Open the Jupyter Notebook
+
+
+
